@@ -5,18 +5,18 @@ The application allows users to convert long URLs into short links, track visit 
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 https://url-shortener-1el2.onrender.com
 
 ---
 
-## 🧠 About the Project
+## About the Project
 This project provides a basic implementation of a URL shortening service similar to popular platforms.  
 Users can generate short URLs, use them for redirection, and monitor how many times each link has been accessed.
 
 ---
 
-## ✨ Features
+## Features
 - Convert long URLs into short links
 - Redirect users using generated short codes
 - Track visit counts for each shortened URL
@@ -26,7 +26,7 @@ Users can generate short URLs, use them for redirection, and monitor how many ti
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 - Python
 - Flask
 - SQLite
@@ -37,7 +37,7 @@ Users can generate short URLs, use them for redirection, and monitor how many ti
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 url_shortener/
 ├── app.py
 ├── models.py
@@ -49,7 +49,7 @@ url_shortener/
 
 ---
 
-## ▶️ How to Run Locally
+## How to Run Locally
 
 ### Install dependencies
 pip install -r requirements.txt
@@ -59,7 +59,7 @@ python app.py
 ### Open in browser
 http://127.0.0.1:5000
 
-### 📌 Learning Outcomes
+### Learning Outcomes
 
 Built REST-style routes using Flask
 
@@ -71,7 +71,7 @@ Handled redirects and custom error pages
 
 Deployed a Python web application to production
 
-### 👤 Author
+### Author
 
 Shaik Alima Zabi
 GitHub: https://github.com/shaikalimazabi
