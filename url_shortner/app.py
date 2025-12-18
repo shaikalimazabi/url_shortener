@@ -1,7 +1,7 @@
 from flask import Flask, request, redirect, render_template
 import random
 import string
-from models import (
+from .models import (
     init_db, 
     insert_url, 
     get_url, 
